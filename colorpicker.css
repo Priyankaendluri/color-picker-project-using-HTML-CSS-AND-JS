@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+}
+
+#color-picker {
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.color-display {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #ccc;
+  color: white;
+  border-radius: 5px;
+}
+
